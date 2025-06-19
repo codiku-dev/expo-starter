@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "quick-bills",
-    "slug": "quick-bills",
+    "name": "expo-starter",
+    "slug": "expo-starter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "quickbills",
+    "scheme": "expostarter",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.quickbills"
+      "bundleIdentifier": "com.anonymous.expostarter"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.anonymous.quickbills"
+      "package": "com.anonymous.expostarter"
     },
     "web": {
       "bundler": "metro",
